@@ -1,4 +1,4 @@
-#The file manager do the following:
+# The file manager do the following:
 
 - Work using CLI
 - Perform basic file operations (copy, move, delete, rename, etc.)
